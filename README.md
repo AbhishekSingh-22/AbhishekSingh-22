@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Enthusiast
 ---------------------------
 
-Emboldened by a deep understanding of both front-end and back-end development, I am a highly competent full-stack developer wielding a diverse toolkit. Adept in Django, Node.js, HTML, CSS, and JavaScript, I approach each project with a problem-solving mindset and a commitment to crafting elegant, efficient solutions. My journey commenced with the solid foundation of C++ programming, and currently, I am captivated by the ever-evolving landscape of emerging computer science fields. This pursuit for knowledge fuels my dedication to continual learning and exploration. Key competencies: Full-Stack Expertise: Confidently navigate both front-end and back-end development challenges. Passionate Learner: Driven by an insatiable thirst for knowledge and new technologies. Methodical Problem-Solver: Employ a logical and analytical approach to overcome complex issues. Engaged Collaborator: Foster effective communication and teamwork to achieve shared goals. Seeking opportunities to: Contribute my skills to innovative projects that push the boundaries of technology. Collaborate with talented individuals who share my passion for learning and exploration. Continuously expand my knowledge and expertise within the dynamic field of computer science.
+Emboldened by a deep understanding of both front-end and back-end development, I am a highly competent full-stack developer wielding a diverse toolkit. Adept in Django, Node.js, HTML, CSS, and JavaScript, I approach each project with a problem-solving mindset and a commitment to crafting elegant, efficient solutions. My journey commenced with the solid foundation of C++ programming, and currently, I am captivated by the ever-evolving landscape of emerging computer science fields. This pursuit for knowledge fuels my dedication to continual learning and exploration. 
+
+#### Key competencies: 
+Full-Stack Expertise: Confidently navigate both front-end and back-end development challenges. Passionate Learner: Driven by an insatiable thirst for knowledge and new technologies. Methodical Problem-Solver: Employ a logical and analytical approach to overcome complex issues. Engaged Collaborator: Foster effective communication and teamwork to achieve shared goals. 
+
+#### Seeking opportunities to: 
+Contribute my skills to innovative projects that push the boundaries of technology. Collaborate with talented individuals who share my passion for learning and exploration. Continuously expand my knowledge and expertise within the dynamic field of computer science.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [https://www.linkedin.com/in/abhishek-singh-133b37251/](mailto:https://www.linkedin.com/in/abhishek-singh-133b37251/)
@@ -22,10 +28,6 @@ Emboldened by a deep understanding of both front-end and back-end development, I
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AbhishekSingh-22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abhishek-singh-133b37251/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/AbhishekSingh-22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSingh-22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
